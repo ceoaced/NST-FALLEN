@@ -3,11 +3,7 @@ getgenv().AutoRejoin = true
 getgenv().AutoRestart = true
 getgenv().AutoSkip = true
 getgenv().AutoSkipCutscenes = true
-getgenv().AutoChain = true
-getgenv().AutoMedic = true
 getgenv().AutoDJ = true
-getgenv().AutoNecro = true
-getgenv().AutoMercenary = true
 -- [ End Settings ] --
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
